@@ -23,8 +23,8 @@
 
  (2) 데이터 조작어(DML)
 
- * SELECT : ``SELECT *`` 
-   * (필드를 선택)
+ * SELECT : ``SELECT * FROM 테이블 명`` 
+   * 해당 테이블의 모든 필드 선택
  * INSERT : ``INSERT INTO 테이블이름(필드명) VALUES(값)``
    * ROW 추가
  * UPDATE : ``UPDATA 테이블이름 SET 필드이름=VALUE``
